@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angela Saniwaa Abban
 - 👀 I’m interested in cloud engineering 
-- 🌱 I’m currently learning AWS Cloud
+- 🌱 I’m currently learning AWS Cloud Computing and Services
 - 💞️ I’m looking to collaborate on creating databases for gaming companies
 - 📫 How to reach me saniwaa16@gmail.com
 - 😄 Pronouns: She/her
