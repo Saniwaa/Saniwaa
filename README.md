@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saniwaa
+- 👋 Hi, I’m Angela Saniwaa Abban
 - 👀 I’m interested in cloud engineering 
 - 🌱 I’m currently learning AWS Cloud
 - 💞️ I’m looking to collaborate on creating databases for gaming companies
