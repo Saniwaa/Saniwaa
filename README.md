@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Angela Saniwaa Abban
-- 👀 I’m interested in cloud engineering 
-- 🌱 I’m currently sharpening my skills in AWS Cloud Computing and Services
-- 💞️ I’m looking to collaborate on creating databases for gaming companies
-- 📫 How to reach me saniwaa16@gmail.com
+- 👀 I’m interested in Cloud Engineering 
+- 🌱 I’m an AWS Solutions Architect Associate
+- 💞️ I’m looking to collaborate with gaming companies
+- 📫 How to reach me angelasaniwaaabban@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love playing video games
 
